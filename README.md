@@ -13,17 +13,17 @@ Saya adalah seorang mahasiswa yang bersemangat tentang Data science. Saya senang
 - Tools: Git, VS Code, Figma
 
 ## 📊 Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?Naufallwcksn=Naufallwcksn&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Naufallwcksn&show_icons=true&theme=radical)
 
 ## 📫 Hubungi Saya
 - Email: naufallwcksn@gmail.com
 - Instagram: @naufallwcksn
 
-```
+<!--
 ## 💬 Tanyakan Saya Tentang
 - [Topik yang Anda kuasai]
 - [Bidang keahlian lain]
-```
+-->
 
 ## ⚡ Fakta Menarik
 - Saya senang melakukan perhitungan matematis
