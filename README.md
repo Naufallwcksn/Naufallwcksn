@@ -8,7 +8,7 @@ Saya adalah seorang mahasiswa yang bersemangat tentang Data science. Saya senang
 - Pengolahan data, membuat database, pembuatan website
 
 ## 💼 Pengalaman Teknis
-- Bahasa Pemrograman: C++, C#
+- Bahasa Pemrograman: C++, C#, phyton
 - Database: MySQL
 - Tools: Git, VS Code, Figma
 
